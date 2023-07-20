@@ -14,3 +14,9 @@ var dia=radi.map(diameter);
 console.log(ara);
 console.log(c);
 console.log(dia);
+
+
+
+
+
+
